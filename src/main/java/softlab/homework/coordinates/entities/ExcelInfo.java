@@ -10,7 +10,7 @@ import lombok.Setter;
 @Setter
 @Getter
 @AllArgsConstructor
-@Table(name = "ExcelData")
+@Table(name = "vehicle_locations")
 public class ExcelInfo {
 
     @Id
